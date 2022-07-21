@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jiuyesheng"
+  id="myeclipse.1433491909320"
+  context-root="/jiuyesheng"
+  j2ee-spec="5.0"
+  archive="jiuyesheng.war">
+  <attributes>
+    <attribute name="webrootdir" value="/web" />
+  </attributes>
+</project-module>
+
